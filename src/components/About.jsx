@@ -1,5 +1,5 @@
 import React from "react";
-import Tilt from "react-tilt";
+import Tilt from "@jdion/tilt-react";
 import { motion } from "framer-motion";
 
 import { styles } from "../styles";
