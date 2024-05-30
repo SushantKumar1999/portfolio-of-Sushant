@@ -16,7 +16,7 @@
     "@react-three/fiber": "^8.16.6",
     "framer-motion": "^9.1.7",
     "maath": "^0.5.3",
-    "react": "^18.3.1",
+    "react": "^16.0.0",
     "react-dom": "^18.3.1",
     "react-router-dom": "^6.23.1",
     "react-tilt": "^1.0.2",
